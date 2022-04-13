@@ -4,3 +4,4 @@ node_modules
 # 生成文件
 .cache
 .temp
+dist
