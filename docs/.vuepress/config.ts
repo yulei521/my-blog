@@ -33,7 +33,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     sidebar: {
       '/interview/': [
         {
-          text: '国企&央企',
+          text: '',
           children: [
             '/interview/README.md',
             '/interview/wukuang.md',
